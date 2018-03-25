@@ -33,6 +33,7 @@ frontend/build/
 # Build data
 *.class
 out/
+build/
 
 # Dependency directory
 node_modules
